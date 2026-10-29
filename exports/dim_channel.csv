@@ -1,0 +1,6 @@
+channel_key,sales_channel,store_type
+4,Offline,High Street Store
+5,Offline,Mall Store
+3,Offline,Online Only
+2,Offline,Standalone Store
+1,Online,Online Only

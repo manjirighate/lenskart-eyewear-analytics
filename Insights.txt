@@ -1,0 +1,13 @@
+Key Insights – Lenskart Analytics Dashboard.
+
+1.	Sales are flat: ₹195–197M every year, growth within ±1.2%.
+2.	February is the lowest month in all four years (seasonality; partly fewer days).
+3.	Four product categories are balanced at ~25% each; the leader changes yearly.
+4.	Under-25 customers contribute ₹113.8M (14.5%), about a third less than every other age group (~₹167M each).
+5.	Five payment modes each take ~20% (₹154–158M).
+6.	Online and Offline split ~50/50 in every category.
+
+Limitations
+	The dataset is synthetic (computer-generated), not real Lenskart transactions.
+	Values are evenly distributed across categories, cities, genders and payment modes, so differences between segments are      small.
+	The project demonstrates the end-to-end method (SQL → data model → DAX → dashboard), not real business findings.

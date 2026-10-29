@@ -1,0 +1,6 @@
+payment_key,payment_mode
+4,Cash
+2,Credit Card
+3,Debit Card
+1,Net Banking
+5,UPI
