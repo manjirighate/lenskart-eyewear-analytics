@@ -1,6 +1,6 @@
 # Lenskart: Eyewear E-commerce & Customer Trends
 ### End-to-end data analytics project using MySQL and Power BI
-**Author:** Manjiree Ghate
+**Author:** Manjiri Ghate
 
 ## Overview
 An interactive 3-page Power BI dashboard analysing 150,000 eyewear
